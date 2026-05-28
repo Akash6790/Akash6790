@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Akash
 
-<!--
-**Akash6790/Akash6790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* Full Stack Developer
+* Learning ReactJS, Java, SQL
+* Interested in Web Development & Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* ReactJS
+
+### Backend
+
+* Java
+* JDBC
+* Servlets
+* Node.js
+
+### Database
+
+* MySQL
+* SQL
+
+---
+
+## 📌 Important Projects
+
+### Hostel Management System
+
+* Full Stack Project using Node.js, Express, EJS, MySQL
+
+### Banking Application
+
+* ReactJS frontend application
+
+### Portfolio Website
+
+* Personal developer portfolio
+
+---
+
+## 📫 Contact Me
+
+* Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+* LinkedIn: linkedin-link
+
+---
+
+## 🔥 Currently Learning
+
+* Advanced React
+* Backend APIs
+* Full Stack Development
