@@ -78,6 +78,25 @@ To become a professional Full Stack Software Engineer and contribute to impactfu
 ---
 
 # 🌟 Featured Projects
+---
+
+## 🤖 Automated Document Verification System
+
+📌 AI-powered system that automatically verifies documents using OCR and Machine Learning.
+
+### 🚀 Features
+
+* Aadhaar/PAN Verification
+* OCR-Based Data Extraction
+* Automated Validation
+* Reduced Manual Work
+
+### 🛠️ Technologies Used
+
+Python, Flask, OpenCV, Machine Learning
+
+🔗 View Project
+---
 
 ## 🏨 Hostel Management System
 
@@ -113,25 +132,6 @@ HTML, CSS, JavaScript, Node.js, MySQL
 ### 🛠️ Technologies Used
 
 HTML, CSS, JavaScript, Node.js, MySQL
-
-🔗 View Project
-
----
-
-## 🤖 Automated Document Verification System
-
-📌 AI-powered system that automatically verifies documents using OCR and Machine Learning.
-
-### 🚀 Features
-
-* Aadhaar/PAN Verification
-* OCR-Based Data Extraction
-* Automated Validation
-* Reduced Manual Work
-
-### 🛠️ Technologies Used
-
-Python, Flask, OpenCV, Machine Learning
 
 🔗 View Project
 
@@ -180,16 +180,6 @@ HTML, CSS, JavaScript, API Integration
 
 ---
 
-# 🏆 Certifications
-
-✅ Prompt Engineering – Infosys
-
-✅ HACK-2-INTERN – State Level Hackathon
-
-✅ Foundation Course on Green Skills & Artificial Intelligence
-
----
-
 # 🌍 Connect With Me
 
 💼 LinkedIn
@@ -203,8 +193,6 @@ HTML, CSS, JavaScript, API Integration
 💡 Passionate about solving real-world problems through software development.
 
 🏏 Outside coding, I enjoy:
-
-* Watching Cricket
 * Exploring New Technologies
 * Learning Modern Development Tools
 
