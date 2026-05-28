@@ -43,15 +43,12 @@ To become a professional Full Stack Software Engineer and contribute to impactfu
 <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
----
-
 ## 🌐 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
----
 
 ## ⚙️ Backend Technologies
 
@@ -59,15 +56,12 @@ To become a professional Full Stack Software Engineer and contribute to impactfu
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
 
 ## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
-
----
 
 ## 🧰 Tools & Platforms
 
