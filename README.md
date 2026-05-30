@@ -154,11 +154,11 @@ HTML, CSS, JavaScript, API Integration
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akash6790&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akash6790&show_icons=true&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6790&theme=tokyonight" />
 
 </p>
 
